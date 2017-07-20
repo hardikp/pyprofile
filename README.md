@@ -1,7 +1,7 @@
 # pyprofile
 A list of easy to use resources for python profiling
 
-### First step
+### First step - get the overall memory footprint
 
 [`ps_mem.py`](https://github.com/pixelb/ps_mem/) is an excellent place to start.
 ```
@@ -13,3 +13,8 @@ A list of easy to use resources for python profiling
                         555.8 MiB
 =================================
 ```
+
+[Stackoverflow link](https://stackoverflow.com/questions/131303/how-to-measure-actual-memory-usage-of-an-application-or-process) for this question.
+
+### Next steps
+https://www.huyng.com/posts/python-performance-analysis
